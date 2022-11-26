@@ -4,3 +4,5 @@ Project Name: Detecting Parkinson’s Disease using Machine Learning
 
 Dataset Link: https://docs.google.com/spreadsheets/d/1VTua3phbo1aYddjyRRgkkpaV9YS9TgBYXTy_qyL9-FY/edit?usp=sharing
 Demo Video Link: https://www.youtube.com/embed/1oMdecrN41o 
+Cloud Deployment: https://dataplatform.cloud.ibm.com/ml-runtime/spaces/afd662d4-6f8d-40f7-b79a-67cd2d5b5f37/deployments?context=cpdaas 
+IBM Watson Studio: https://us-south.ml.cloud.ibm.com/ml/v4/deployments/97ae351c-caea-49fc-a1eb-7ea9a5dc316e/predictions?version=2022-11-26
